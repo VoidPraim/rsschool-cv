@@ -1,0 +1,28 @@
+.wrap {
+  width: 800px;
+  margin: 0 auto;
+  font-family: "Segoe UI", sans-serif;
+}
+.header-block {
+  margin-top: 20px;
+  text-align: center;
+}
+.head-info {
+  font-size: 40px;
+}
+
+.head-img {
+  width: 100px;
+  height: 100px;
+}
+
+.main-block {
+  margin-top: 4em;
+  font-size: 150%;
+}
+
+.footer-block {
+  margin-top: 8em;
+  text-align: center;
+
+}
