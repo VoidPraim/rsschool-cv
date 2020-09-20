@@ -1,1 +1,1 @@
-https://github.com/VoidPraim/rsschool-cv/blob/gh-pages/cv.md
+https://voidpraim.github.io/rsschool-cv/cv
